@@ -61,5 +61,19 @@ namespace MicrosoftTutorial
             var withdrawal = new Transaction(amount, date, note);
             allTransactions.Add(withdrawal);
         }
+
+        public string GetAccountHistory()
+        {
+            var report = new System.Text.StringBuilder();
+
+            decimal balance = 0;
+            report.AppendLine("Date\t\tAmount\t\tBalance\t\tNote");
+            foreach(var item in allTransactions)
+            {
+                balance += item.Amount;
+                report.AppendLine($"{item.Date.ToShortDateString()}\t{item.Amount}\t\t{balance}\t\t{item.Notes}");
+            }
+            return report.ToString();
+        }
     }
 }

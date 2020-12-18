@@ -23,11 +23,13 @@ namespace MicrosoftTutorial
             {
                 var invalidAccount = new BankAccount("invalid", -55);
             }
-            catch (ArgumentOutOfRangeException e)
+            catch (ArgumentOutOfRangeException) // or (ArgumentOutOfRangeException e)
             {
                 Console.WriteLine("Exception caught creating account with negative balance");
-                Console.WriteLine(e.ToString());
+                //Console.WriteLine(e.ToString());
             }
+
+            Console.WriteLine(account.GetAccountHistory());
         }
     }
 }
