@@ -1,0 +1,13 @@
+C:\Users\racir\source\LaunchCode\CSharp\microsoft-tutorials\classes\MicrosoftTutorial\MicrosoftTutorial\obj\Debug\netcoreapp3.1\MicrosoftTutorial.csprojAssemblyReference.cache
+C:\Users\racir\source\LaunchCode\CSharp\microsoft-tutorials\classes\MicrosoftTutorial\MicrosoftTutorial\obj\Debug\netcoreapp3.1\MicrosoftTutorial.AssemblyInfoInputs.cache
+C:\Users\racir\source\LaunchCode\CSharp\microsoft-tutorials\classes\MicrosoftTutorial\MicrosoftTutorial\obj\Debug\netcoreapp3.1\MicrosoftTutorial.AssemblyInfo.cs
+C:\Users\racir\source\LaunchCode\CSharp\microsoft-tutorials\classes\MicrosoftTutorial\MicrosoftTutorial\obj\Debug\netcoreapp3.1\MicrosoftTutorial.csproj.CoreCompileInputs.cache
+C:\Users\racir\source\LaunchCode\CSharp\microsoft-tutorials\classes\MicrosoftTutorial\MicrosoftTutorial\bin\Debug\netcoreapp3.1\MicrosoftTutorial.exe
+C:\Users\racir\source\LaunchCode\CSharp\microsoft-tutorials\classes\MicrosoftTutorial\MicrosoftTutorial\bin\Debug\netcoreapp3.1\MicrosoftTutorial.deps.json
+C:\Users\racir\source\LaunchCode\CSharp\microsoft-tutorials\classes\MicrosoftTutorial\MicrosoftTutorial\bin\Debug\netcoreapp3.1\MicrosoftTutorial.runtimeconfig.json
+C:\Users\racir\source\LaunchCode\CSharp\microsoft-tutorials\classes\MicrosoftTutorial\MicrosoftTutorial\bin\Debug\netcoreapp3.1\MicrosoftTutorial.runtimeconfig.dev.json
+C:\Users\racir\source\LaunchCode\CSharp\microsoft-tutorials\classes\MicrosoftTutorial\MicrosoftTutorial\bin\Debug\netcoreapp3.1\MicrosoftTutorial.dll
+C:\Users\racir\source\LaunchCode\CSharp\microsoft-tutorials\classes\MicrosoftTutorial\MicrosoftTutorial\bin\Debug\netcoreapp3.1\MicrosoftTutorial.pdb
+C:\Users\racir\source\LaunchCode\CSharp\microsoft-tutorials\classes\MicrosoftTutorial\MicrosoftTutorial\obj\Debug\netcoreapp3.1\MicrosoftTutorial.dll
+C:\Users\racir\source\LaunchCode\CSharp\microsoft-tutorials\classes\MicrosoftTutorial\MicrosoftTutorial\obj\Debug\netcoreapp3.1\MicrosoftTutorial.pdb
+C:\Users\racir\source\LaunchCode\CSharp\microsoft-tutorials\classes\MicrosoftTutorial\MicrosoftTutorial\obj\Debug\netcoreapp3.1\MicrosoftTutorial.genruntimeconfig.cache
