@@ -19,10 +19,6 @@ namespace MicrosoftTutorial
                 }
                 return balance;
             }
-            //set
-            //{
-            //    Balance += value;
-            //}
         }
         public string Owner { get; set; }
 

@@ -30,6 +30,8 @@ namespace MicrosoftTutorial
             }
 
             Console.WriteLine(account.GetAccountHistory());
+
+            Console.WriteLine($"Total balance as of {DateTime.Now}: ${account.Balance}");
         }
     }
 }
